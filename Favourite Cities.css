@@ -1,0 +1,21 @@
+.body{
+    background-color: lightyellow;
+}
+.body:hover{
+    background-color: lightgoldenrodyellow;
+}
+.favourite-cities{
+    color: darkred;
+}
+.newyork{
+    color: blue;
+}
+.paris{
+    color: blue;
+}
+.newdelhi{
+    color: blue;
+}
+.button{
+    color: darkgoldenrod;
+}

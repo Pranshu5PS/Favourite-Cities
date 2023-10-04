@@ -1,0 +1,12 @@
+.body{
+    background-color: lightyellow;
+}
+.body:hover{
+    background-color: lightgoldenrodyellow;
+}
+.sign-up{
+    color: darkred;
+}
+.button{
+    color: darkgoldenrod;
+}

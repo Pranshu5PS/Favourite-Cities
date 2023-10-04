@@ -1,0 +1,12 @@
+.body{
+    background-color: lightyellow;
+}
+.body:hover{
+    background-color: lightgoldenrodyellow;
+}
+.welcome-login{
+    color: darkred;
+}
+.button{
+    color: darkgoldenrod;
+}
